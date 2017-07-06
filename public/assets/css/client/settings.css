@@ -1,0 +1,102 @@
+.has-error {
+    border-color: #a94442 !important;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075) !important;
+}
+.all_jobs h3{
+    font-size: 4em;
+    color: #212121;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    margin-bottom:25px;
+}
+.add-job-button{
+    right: 0;
+    top: 0;
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+}
+.add-job-button:hover{
+    right: 0;
+    top: 0;
+    background-color: #fff;
+    outline: none;
+    color: #a78300;
+    border: none;
+}
+.all_jobs{
+    padding:40px 0;
+}
+.all_jobs hr {
+    margin: 10px 0;
+    border-top: 1px solid #a78300;
+}
+.all_jobs_content{
+    padding:40px 0;
+    box-shadow: 0 0 4px #a78300;
+    display: inline-block;
+}
+#client_posted_jobs .btn-primary{
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+}
+.job_editing h3{
+    font-size: 4em;
+    color: #212121;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    margin-bottom:25px;
+    text-align: center;
+    margin-top:40px;
+}
+.edit-job{
+    margin-bottom: 40px;
+    padding:40px 0;
+    box-shadow: 0 0 4px #a78300;
+    display: inline-block;
+}
+
+.edit-this-job{
+    text-align: center;
+}
+
+.edit-this-job .btn-success{
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+
+}
+.job_proposals{
+    display: block;
+    padding:15px;
+    margin-bottom:40px;
+}
+.see_proposals h3{
+
+    font-size: 3em;
+    color: #212121;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    margin-bottom:25px;
+    text-align: center;
+    margin-top:40px;
+}
+.see_proposals .btn-primary ,.see_proposals .btn-primary:focus, .see_proposals .btn-primary:hover , .see_proposals .btn-primary:active{
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+}

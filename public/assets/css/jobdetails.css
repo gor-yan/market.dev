@@ -1,0 +1,58 @@
+.job-details{
+    padding:40px 0;
+}
+.job-details .btn-warning ,.job-details .btn-success , .job-details .btn-default {
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+}
+
+.job-details h3{
+    font-size: 4em;
+    color: #212121;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    margin-bottom:25px;
+}
+.one-job-details{
+    padding:40px 20px;
+    box-shadow: 0 0 4px #a78300;
+    display: block;
+}
+.one-job-details h4{
+    font-size:25px;
+    font-weight:100;
+    color: #a78300;
+}
+.one-job-details .job_desc{
+    padding:10px;
+    box-shadow: 0 0 4px #a78300;
+}
+.file-attached a{
+    color: #a78300;
+}
+.one-job-details strong{
+    color: #a78300;
+}
+.mt20{
+    margin-top: 20px;
+}
+.categories_job {
+    margin-top:30px;
+    display: inline-flex;
+}
+.categories_job span{
+    padding: 5px;
+    background: #a78300;
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    font-size:13px;
+}
+.skill_job{
+    display: block;
+}

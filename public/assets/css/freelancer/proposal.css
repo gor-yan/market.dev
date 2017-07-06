@@ -1,0 +1,41 @@
+
+.job_editing h3{
+    font-size: 4em;
+    color: #212121;
+    text-decoration: none;
+    font-weight: 300;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0;
+    margin-bottom:25px;
+    text-align: center;
+    margin-top:40px;
+}
+.edit-job{
+    margin-bottom: 40px;
+    padding:40px 0;
+    box-shadow: 0 0 4px #a78300;
+}
+
+.edit-this-job{
+    text-align: center;
+}
+
+.btn-info,.btn-info:hover , .btn-info:active , .btn-info:focus{
+    background-color: #a78300;
+    outline: none;
+    color: white;
+    border: none;
+
+}
+.margins{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.mt10{
+    margin-top: 10px;
+}
+
+.mb40{
+    margin-bottom:40px;
+}
